@@ -1,1 +1,1 @@
-# sanple30
+# sample30
